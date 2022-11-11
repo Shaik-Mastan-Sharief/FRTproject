@@ -7,9 +7,10 @@ This is a web based application developed to people for good health
 
 
 **Project Link** - https://orange-river-05eb8f100.2.azurestaticapps.net
+
 **Project demo** -
 
-Azure Technologies used for Project :
+### Azure Technologies used for Project :
 - Health Bot
 - Static web apps
 
